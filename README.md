@@ -44,7 +44,7 @@ This challenge helped me learn more about CSS Grid and responsive designs
 
 ### Continued development
 
-but I still feel like I should work more on CSS Grid properties and responsive designs 
+but I still feel like I should work more on said properties
 
 
 ## Author
